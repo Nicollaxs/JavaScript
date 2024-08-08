@@ -48,7 +48,7 @@ p1.desconto(5)
 //p1.aumento(5)
 console.log(p1)
 
-//Você pode criar um objeto dessa maneira e copiar o protorype do de cima
+//Você pode criar um objeto dessa maneira e copiar o prototype do de cima
 const p2 = {
     nome : 'Caneca',
     preco : 10
