@@ -6,4 +6,4 @@ const a3 = a1.concat(a2)
 // Outra maneira 
 
 const a4= [...a1,...a2]
-console.log("🚀 ~ a4:", a4)
+console.log(a4)

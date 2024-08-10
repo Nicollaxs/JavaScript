@@ -1,0 +1,27 @@
+Para iniciar o node no projeto :
+
+--------- npm init -y
+
+Para instalar dependencias no node :
+
+--------- npm install nomeDaDependencia
+
+Para desinstalar uma dependencia :
+
+--------- npm uninstall nomeDaDependencia
+
+O que significa os numeros de versões
+
+2.       1.      0
+major   minor   path
+
+Major (Principal): Esta parte do número indica mudanças significativas que podem quebra
+compatibilidade com versões anteriores. Quando você faz alterações que não são compatíveis
+com versões anteriores, você aumenta este número. Exemplo: De 1.x.x para 2.x.x.
+
+Minor (Secundária): Este número representa a adição de novas funcionalidades ou melhorias que
+são compatíveis com versões anteriores. Ou seja, adicionou-se algo novo, mas não quebra nada 
+que já existia. Exemplo: De 1.1.x para 1.2.x.
+
+Patch (Correção): Este número é usado para indicar correções de bugs que não afetam a funcionalidade
+do software, apenas corrigem problemas ou erros. Exemplo: De 1.1.1 para 1.1.2.
