@@ -31,7 +31,6 @@ function Produto(nome,preco,estoque){
             estoque = valor
         }
     })
-
 }
 
 const p1 = new Produto('Camiseta',20,3)
